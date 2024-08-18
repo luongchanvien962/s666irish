@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+s666 | Nhà Cái Uy Tín và Độc Đáo Nhất Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`s666 <https://s666.irish/>`_ là đại lý chính thức của nhà cái s666. Là đối tác chính thức của CLB Villarreal. Hiện tại, website s666.cloud đã được chuyển hướng sang s666.irish. Do vậy, những ưu đãi dành cho khách hàng vẫn được lưu giữ tại website s666.irish khi bạn tiếp tục tham gia chơi và truy cập tại website này
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://s666.irish/
 
-.. note::
+Author: https://s666.irish/ceo-tiff-phan-nu-doanh-nhan-danh-gia-s666-thanh-cong/
 
-   This project is under active development.
+Hotline: 0903777079
 
-Contents
---------
+Địa chỉ: Số 123 Phan Đình Phùng, Sơn Tây Hà Nội 100000, Vietnam
 
-.. toctree::
+Email: cs@s666.cloud
 
-   usage
-   api
+#s666 #nhacais666 #s666 #logins666
